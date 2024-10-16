@@ -1,0 +1,28 @@
+{
+    "clientName": "Thunder Client",
+    "collectionName": "dojo",
+    "collectionId": "6729bfc0-cea2-4648-8fe6-6b43e8348098",
+    "dateExported": "2024-10-16T16:35:54.607Z",
+    "version": "1.2",
+    "folders": [],
+    "requests": [
+        {
+            "_id": "23e8707e-94e6-4252-bb23-a5cc160a5890",
+            "colId": "6729bfc0-cea2-4648-8fe6-6b43e8348098",
+            "containerId": "",
+            "name": "http://localhost:8080/api/calculator",
+            "url": "http://localhost:8080/api/calculator",
+            "method": "POST",
+            "sortNum": 10000,
+            "created": "2024-10-16T16:35:44.341Z",
+            "modified": "2024-10-16T16:35:44.341Z",
+            "headers": [],
+            "body": {
+                "type": "json",
+                "raw": "{\n  \"expression\": \"2+2.1*(3-1)-b\",\n  \"variables\": {\n    \"a\": 2,\n    \"b\": 10\n  }\n}",
+                "form": []
+            }
+        }
+    ],
+    "ref": "kb7tZsp1JcFliQ9huEuxMIVt5UmXtkatcMAXSDprODj3CWbvr971diHIR_ifUZ9cldUGSI-ra3lw21-jiWShVA"
+}
